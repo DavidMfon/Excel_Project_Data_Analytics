@@ -4,9 +4,8 @@ Data Nerds! This repo contains all Excel files needed to follow along my project
 
 ## Salary Dashboard
 This data jobs salary dashboard was created to help job seekers investigate salaries for their dseired jobs and ensure they are being adequately compensated  
-[Checkout my work here](Project_1_Dashboard)
-
-![Salary Calculator](https://github.com/user-attachments/assets/084f6a47-95bf-4a2f-9459-b8445208281c)
+[Checkout my work here](Project_1_Dashboard)  
+![alt text](DataScienceSalaryCalculator-Dashboard.png)
 
 
 ## Salary Analysis
