@@ -8,6 +8,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 ![Salary Calculator](https://github.com/user-attachments/assets/084f6a47-95bf-4a2f-9459-b8445208281c)
 
+
 ## Salary Analysis
 This set out to understand what skills top employers request and how to land more pay.  
 [Checkout my work here](Project_2_Analysis)
